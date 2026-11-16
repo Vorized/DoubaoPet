@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1026" height="1026" viewBox="0 0 1026 1026">
+  <!-- 思考气泡 · 高清矢量重绘 (依据 assets/bubble.png 轮廓扫描) -->
+  <g fill="none">
+    <!-- 藏青描边层：整体剪影 -->
+    <g fill="#243263">
+      <!-- 主气泡外轮廓 -->
+      <ellipse cx="478" cy="257.5" rx="383.5" ry="241.5"/>
+      <!-- 左下凸弧（尾巴与主体连接处） -->
+      <circle cx="389" cy="436" r="82"/>
+      <!-- 思考泡 1 -->
+      <ellipse cx="377" cy="566" rx="47" ry="35"/>
+      <!-- 思考泡 2 -->
+      <ellipse cx="467.5" cy="651" rx="32.5" ry="26"/>
+    </g>
+    <!-- 内容层：白色内芯（内缩=描边厚度，形成均匀描边） -->
+    <g>
+      <ellipse cx="478" cy="257.5" rx="361.5" ry="219.5" fill="#FFFEFF"/>
+      <circle cx="389" cy="436" r="62" fill="#FFFEFF"/>
+      <ellipse cx="376.5" cy="566" rx="26.5" ry="15" fill="#F5FCFF"/>
+      <ellipse cx="467" cy="650.5" rx="13" ry="7.5" fill="#E6FAFD"/>
+    </g>
+  </g>
+</svg>
