@@ -1,0 +1,10 @@
+{
+  "demo": true,
+  "percent": 37.4,
+  "used": 7480,
+  "total": 20000,
+  "unit": "次",
+  "product": "coding-plan",
+  "tier": "pro",
+  "source_label": "演示数据"
+}
